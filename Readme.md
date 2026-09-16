@@ -145,9 +145,3 @@ Salida esperada:
 - [ ] Exportación del hash a archivo `.json` o `.env`.
 - [ ] Pruebas unitarias con `pytest`.
 - [ ] Empaquetado como CLI instalable con `pipx`.
-
----
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
