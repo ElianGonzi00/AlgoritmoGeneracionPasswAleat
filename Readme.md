@@ -151,9 +151,3 @@ Salida esperada:
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-## ✍️ Autor
-
-Desarrollado por **[Tu Nombre]** — [tu-perfil-github](https://github.com/tu-perfil)
